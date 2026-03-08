@@ -1,0 +1,9 @@
+{
+	"name": "spotdfasd",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "c1d6f95f-b671-4942-8ffe-a887b83b72cc",
+		"tenantId": "fda252bc-c02f-4ff3-a6fe-290fcecf31ae"
+	}
+}
