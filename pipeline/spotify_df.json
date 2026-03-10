@@ -136,7 +136,7 @@
 				"userProperties": [],
 				"typeProperties": {
 					"expression": {
-						"value": "@greater(activity('AzureSQLToTake').output.dataRead ,0)",
+						"value": "@greater(activity('AzureSQLToTake').output.dataRead,0)",
 						"type": "Expression"
 					},
 					"ifFalseActivities": [
